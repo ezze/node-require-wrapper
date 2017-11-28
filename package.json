@@ -1,0 +1,24 @@
+{
+  "name": "require-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper module for Node's require to use for requiring dynamic dependencies in Webpack environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezze/node-require-wrapper.git"
+  },
+  "keywords": [
+    "node",
+    "require",
+    "webpack"
+  ],
+  "author": "Dmitriy Pushkov <ezze@ezze.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezze/node-require-wrapper/issues"
+  },
+  "homepage": "https://github.com/ezze/node-require-wrapper#readme"
+}
